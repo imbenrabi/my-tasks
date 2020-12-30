@@ -25,7 +25,7 @@ export default Vue.extend({
   },
   methods: {
     ...mapActions(["addTodo"]),
-    onSubmit(e: any): void {
+    onSubmit(e: MouseEvent | KeyboardEvent): void {
       e.preventDefault();
       this.addTodo(this.title);
       this.title = "";
