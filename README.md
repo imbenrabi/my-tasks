@@ -1,4 +1,17 @@
 # my-tasks
+- This project was bootstrapped with [Create Nuxt App](https://github.com/nuxt/create-nuxt-app).
+- Server is demoed by [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
+
+## General description
+- Simple client side personal task manager. 
+- Nuxt.js configured with Typescript. 
+- Vanilla CSS3.
+
+## Production version 
+- Coming soon.
+
+## Data
+- Due to demoing the server and DB there will be data persistency issues for user generated tasks.
 
 ## Build Setup
 
@@ -17,4 +30,5 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
