@@ -30,6 +30,13 @@ import AddTodo from "~/components/AddTodo.vue";
 import FilterTodos from "~/components/FilterTodos.vue";
 import Legend from "~/components/Legend.vue";
 
+type Todo = {
+  userId: number;
+  id: number;
+  title: string;
+  completed: boolean;
+};
+
 export default Vue.extend({
   components: {
     AddTodo,
@@ -44,12 +51,7 @@ export default Vue.extend({
   },
   methods: {
     ...mapActions(["deleteTodo", "updateTodo"]),
-    onDoubleClick(todo: {
-      userId: number;
-      id: number;
-      title: string;
-      completed: boolean;
-    }): void {
+    onDoubleClick(todo: Todo): void {
       const updTodo = { ...todo, completed: !todo.completed };
       this.updateTodo(updTodo);
     },

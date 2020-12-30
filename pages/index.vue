@@ -58,5 +58,8 @@ import Vue from "vue";
 export default Vue.extend({});
 </script>
 
-<style>
+<style scoped>
+p {
+  margin: 20px 0;
+}
 </style>
