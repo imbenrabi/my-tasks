@@ -8,31 +8,9 @@
         things that bring satisfaction, happiness and profit. Some people are
         actually very adept at efficiency. They manage every manageable moment
         so they have more time for themselves to do the things they love. Here
-        are three techniques efficient people use to gain that freedom.
+        one free technique efficient people use to gain that freedom.
       </p>
-      <h3>1. Stop Multitasking</h3>
-      <p>
-        Many people fool themselves into thinking they are good at multitasking.
-        But actually very few can solidly focus on more than 1 or two tasks,
-        particularly if they require focus and depth. They fool themselves into
-        believing they are getting more done when in reality they are
-        accomplishing less and the quality of the work is poor. Really efficient
-        people know that concentrated effort with few distractions leads to
-        better work product in faster times. Otherwise the work may not be up to
-        par, which means wasting even more time and energy going back to fix the
-        mistakes.
-      </p>
-      <h3>2. Delegate</h3>
-      <p>
-        So much productivity is lost when people take on more than they can
-        accomplish. Don't be inspired by CEOs and leaders who overload their
-        schedules and burn the midnight oil. Really efficient people are
-        extremely good at delegating tasks to others who will perform them
-        better. When you know how to break down a task and empower others to
-        contribute effort, you can choose the tasks most suited for you and
-        crank through them in record time without distraction.
-      </p>
-      <h3>3. Give Everything a Proper Place</h3>
+      <h3>Give Everything a Proper Place</h3>
       <p>
         A lot of time is wasted chasing down lost items. Keys, pens and clothing
         hunts can cause distraction and frustration, especially when you have
