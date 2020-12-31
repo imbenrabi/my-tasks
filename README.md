@@ -8,7 +8,7 @@
 - Vanilla CSS3.
 
 ## Production version 
-- Coming soon.
+- [Visit the website](https://imbenrabi-tasks.netlify.app/)
 
 ## Data
 - Due to demoing the server and DB there will be data persistency issues for user generated tasks.
